@@ -1,0 +1,23 @@
+1. Agile is not about thing, agile is not methodology, agile is not scrum meeting 
+2. Agile is a umbrella and it is a collection of methodologies and each methodology is having practices
+3. One of the agile methodology is which is more process orientated which is nothing but scrum that can be used in even outside software industry.
+4. And there is technical methodology which is nothing but extreme programming
+5. Agile means speed so anyone is saying that we are agile means that they are developing or doing something very fastly.
+6. Nowadays people are mostly using scrum methodology of agile and giving most importants to it only and building softwares only using this approach but they also need to think about developer and tetsers that how they can also build software quality, they are using only process based methodology of agile which is agile but they are not using Technical methodology of agile which is extreme Programming.
+7. In back when people are thinking about agile only as process to build the software at management level because of scrum propularity then developer are thinking that ohh agile means only management kind of thing and that's why they stopped to go in agile conference because there folks are only talking about scrum.
+8. After analysing these things uncle Bob comes with the concept called software Craftsmanship which promotes extreme programming which is technical methodology of agile.
+9. They told you should not deliver only working software but you should deliver well crafted software.
+10. Agile menifesto says we should deliver working software
+11. But software Craftsmanship menifesto says we should deliver working as well as well crafted software
+12. Software Craftsmanship menifesto written on top of agile menifesto
+13. What do you mean by well crafted code or software?
+- The system which is not sacred to do changes
+- in the system we don't need to debug the system in order to understand it
+- imagine the system which no need to debug it while writing code in it , amazing right
+14. In my starting career in most of the interview they are asking that do you know how to debug? So you can imagine how that system or code is bad.
+15. Software Craftsmanship promotes professionalasim.
+16. We can be agile because of three things
+- scrum - process based agile
+- software Craftsmanship - Technical based agile
+- DevOps
+17. Agile is nothing but getting faster feedback loops and how we can achieve it that's is nothing but mindset that's why agile is a mindset.
