@@ -1,0 +1,30 @@
+1. Software Craftsmanship menifesto is actually well written document you can find it on internet , and the very first point it talk about that as a developer we should not create only working software but we should create well crafted software.
+2. As a developer you should not only focus on achieving requirement ot jira ticket but you should also focus on clean code and quality of the code also.
+3. You should deliver well crafted code 
+4. To paraphrase this or as a points that
+- No jugad
+- No just putting things together in order to just work
+- doing things in well crafted way
+- No commented code 
+- Properly naming variable
+- properly structured code that looks good
+- Having small functions
+- Having small classes
+- Having proper error handling in place
+- readable code is most important thing
+5. Are you making clean git commits or not ? That's also important
+- Most of time we see in commit such files that should not be there like binary files , .class files , because it does not have proper gitignore file.
+- and does not have read me file which is not good
+6. When we are talking about clean code so we can expand it at outside of code as well like below
+- good clean repo
+- clean commits
+- you can use good BDD practice to describe domain requirement in clean manner
+7. Clean code is an attitude
+8. For reference you can do like below
+- TDD
+- continues Refactoring
+- clean code book by uncle Bob
+- Use Boyse scout rule in coding
+- implementation patterns book by Kent back
+- java by comparison book
+- search clean code katas and practice it
